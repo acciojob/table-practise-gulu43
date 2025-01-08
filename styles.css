@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-table {
-  border: 2px solid powderblue;
+tr,th,td{
+  border: 1px solid powderblue;
 }
